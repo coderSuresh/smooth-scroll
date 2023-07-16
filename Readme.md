@@ -1,4 +1,6 @@
-# Smooth Scroll on Anchor Links
+# Smooth Scroll on Back Press
+
+[![npm version](https://badge.fury.io/js/smooth-scroll-on-back-press.svg)](https://badge.fury.io/js/smooth-scroll-on-back-press)
 
 ## Description
 
