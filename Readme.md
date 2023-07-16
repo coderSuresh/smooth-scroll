@@ -20,7 +20,7 @@ Now you are good to go. The script will automatically add smooth scroll to all t
 
 
 ## Example
-You can see the example [here](https://codersuresh.github.io/smooth-scroll-on-back-press/).
+You can see the example [here](https://smooth-scroll-on-back-press.netlify.app/).
 
 ## Limitations
 
