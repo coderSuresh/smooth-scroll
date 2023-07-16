@@ -1,0 +1,22 @@
+{
+  "name": "smooth-scroll-on-back-press",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "description": "A simple NPM package to implement smooth scroll on back press functionality",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codersuresh/smooth-scroll.git"
+  },
+  "author": "coderSuresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codersuresh/smooth-scroll/issues"
+  },
+  "homepage": "https://github.com/codersuresh/smooth-scroll#readme"
+}
